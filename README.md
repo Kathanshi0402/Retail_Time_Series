@@ -47,10 +47,5 @@ This project focuses on **forecasting retail sales** by addressing **heterosceda
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Retail_Sales_Forecasting.git
 
 
