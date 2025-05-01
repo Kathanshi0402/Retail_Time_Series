@@ -53,12 +53,6 @@
 - 📄 `Retail.pdf`: Clean, step-by-step report of the analysis
 - 📁 `Final_Predictions.csv`: Forecasted sales by product family and quarter
 
----
-
-## 📈 Sample Visualization
-
-![Sales vs. Oil Prices](assets/sales_vs_oil_prices.png) *(optional)*  
-*Scatter plot showing sales fluctuations against crude oil prices.*
 
 ---
 
